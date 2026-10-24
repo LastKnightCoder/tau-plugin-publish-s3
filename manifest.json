@@ -2,21 +2,12 @@
   "id": "tau.publish-s3",
   "name": "S3 静态托管发布",
   "description": "将博客部署到兼容 S3 的静态托管存储",
-  "categories": [
-    "blog-publish"
-  ],
-  "keywords": [
-    "s3",
-    "博客",
-    "发布"
-  ],
-  "version": "0.1.5",
-  "requires": [
-    "fetch"
-  ],
+  "categories": ["blog-publish"],
+  "keywords": ["s3", "博客", "发布"],
+  "version": "0.1.6",
   "targets": {
     "desktop": {
-      "minAppVersion": "0.59.2"
+      "minAppVersion": "0.59.4"
     }
   }
 }
