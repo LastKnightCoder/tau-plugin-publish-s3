@@ -4,7 +4,7 @@
   "description": "将博客部署到兼容 S3 的静态托管存储",
   "categories": ["blog-publish"],
   "keywords": ["s3", "博客", "发布"],
-  "version": "0.1.8",
+  "version": "0.1.9",
   "targets": {
     "desktop": {
       "minAppVersion": "0.60.2"
