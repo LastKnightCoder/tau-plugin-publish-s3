@@ -1,0 +1,19 @@
+{
+  "account.title": "帳號",
+  "account.accessKey": "Access Key",
+  "account.secretKey": "Secret Key",
+  "location.title": "發布位置",
+  "location.bucket": "Bucket",
+  "location.region": "Region",
+  "location.basePath": "存取路徑",
+  "location.basePathHint": "網站部署於子路徑時填寫，例如 /blog",
+  "location.endpoint": "Endpoint",
+  "location.endpointHint": "使用相容 S3 的服務（R2、MinIO 等）時填寫",
+  "location.pathPrefix": "物件前綴",
+  "location.pathPrefixHint": "檔案寫入儲存桶內的目錄",
+  "style.label": "URL 風格",
+  "style.path": "路徑風格",
+  "style.pathHint": "網址格式為 endpoint/bucket/物件",
+  "style.virtual": "虛擬主機風格",
+  "style.virtualHint": "網址格式為 bucket.endpoint/物件"
+}

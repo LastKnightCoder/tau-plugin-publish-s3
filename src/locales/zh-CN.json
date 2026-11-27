@@ -1,0 +1,19 @@
+{
+  "account.title": "账号",
+  "account.accessKey": "Access Key",
+  "account.secretKey": "Secret Key",
+  "location.title": "发布位置",
+  "location.bucket": "Bucket",
+  "location.region": "Region",
+  "location.basePath": "访问路径",
+  "location.basePathHint": "站点部署在子路径时填写，如 /blog",
+  "location.endpoint": "Endpoint",
+  "location.endpointHint": "兼容 S3 的服务（R2、MinIO 等）填写",
+  "location.pathPrefix": "对象前缀",
+  "location.pathPrefixHint": "文件写入存储桶内的目录",
+  "style.label": "URL 风格",
+  "style.path": "路径风格",
+  "style.pathHint": "地址形如 endpoint/bucket/对象",
+  "style.virtual": "虚拟主机风格",
+  "style.virtualHint": "地址形如 bucket.endpoint/对象"
+}

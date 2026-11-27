@@ -1,0 +1,19 @@
+{
+  "account.title": "Account",
+  "account.accessKey": "Access Key",
+  "account.secretKey": "Secret Key",
+  "location.title": "Publish location",
+  "location.bucket": "Bucket",
+  "location.region": "Region",
+  "location.basePath": "Access path",
+  "location.basePathHint": "Set this when the site is deployed at a subpath, such as /blog",
+  "location.endpoint": "Endpoint",
+  "location.endpointHint": "Set this for an S3-compatible service such as R2 or MinIO",
+  "location.pathPrefix": "Object prefix",
+  "location.pathPrefixHint": "Directory within the bucket where files are written",
+  "style.label": "URL style",
+  "style.path": "Path style",
+  "style.pathHint": "Address format: endpoint/bucket/object",
+  "style.virtual": "Virtual-hosted style",
+  "style.virtualHint": "Address format: bucket.endpoint/object"
+}

@@ -4,10 +4,23 @@
   "description": "将博客部署到兼容 S3 的静态托管存储",
   "categories": ["blog-publish"],
   "keywords": ["s3", "博客", "发布"],
-  "version": "0.1.9",
+  "locales": ["zh-CN", "zh-TW", "en-US"],
+  "i18n": {
+    "zh-TW": {
+      "name": "S3 靜態託管發佈",
+      "description": "將部落格部署到相容 S3 的靜態託管儲存空間。",
+      "keywords": ["S3", "部落格", "發佈"]
+    },
+    "en-US": {
+      "name": "S3 Static Hosting Publish",
+      "description": "Deploy your blog to S3-compatible static hosting storage.",
+      "keywords": ["S3", "blog", "publish"]
+    }
+  },
+  "version": "0.1.10",
   "targets": {
     "desktop": {
-      "minAppVersion": "0.60.2"
+      "minAppVersion": "0.68.0"
     }
   }
 }
